@@ -1,0 +1,6 @@
+server:
+  prot: 8001
+
+spring:
+  application:
+    name: design-mode
