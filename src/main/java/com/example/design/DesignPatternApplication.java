@@ -8,10 +8,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @create 2020/12/26.
  */
 @SpringBootApplication
-public class DesignModeApplication {
+public class DesignPatternApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DesignModeApplication.class, args);
+        SpringApplication.run(DesignPatternApplication.class, args);
     }
 
 }
