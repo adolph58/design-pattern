@@ -18,6 +18,6 @@
 ### decorator pattern
 装饰者模式
 
-### strategy
+### strategy pattern
 策略模式
 
