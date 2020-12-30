@@ -15,4 +15,3 @@ public class Circle extends Shape {
         System.out.println("Inside Circle::draw() method.");
     }
 }
-

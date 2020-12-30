@@ -4,7 +4,6 @@ package com.example.design.prototype;
  * @author Arte
  * @create 2020/12/29.
  */
-
 public abstract class Shape implements Cloneable {
 
     private String id;
@@ -35,4 +34,3 @@ public abstract class Shape implements Cloneable {
         return clone;
     }
 }
-
