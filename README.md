@@ -15,6 +15,9 @@
 ### prototype pattern
 原型模式
 
+### adapter pattern
+适配器模式
+
 ### decorator pattern
 装饰器模式
 
