@@ -16,8 +16,11 @@
 原型模式
 
 ### decorator pattern
-装饰者模式
+装饰器模式
 
 ### strategy pattern
 策略模式
+
+### observer pattern
+观察者模式
 
