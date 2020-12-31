@@ -27,3 +27,8 @@
 ### observer pattern
 观察者模式
 
+### proxy pattern
+代理模式
+
+### chain of responsibility pattern
+责任链模式
