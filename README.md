@@ -21,6 +21,9 @@
 ### bridge pattern
 桥接模式
 
+### filter pattern
+过滤器模式
+
 ### decorator pattern
 装饰器模式
 
