@@ -18,6 +18,9 @@
 ### adapter pattern
 适配器模式
 
+### bridge pattern
+桥接模式
+
 ### decorator pattern
 装饰器模式
 
