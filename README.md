@@ -33,6 +33,9 @@
 ### facade pattern
 外观模式
 
+### flyweight pattern
+享元模式
+
 ### strategy pattern
 策略模式
 
