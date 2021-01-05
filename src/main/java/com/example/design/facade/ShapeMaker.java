@@ -19,7 +19,7 @@ public class ShapeMaker {
         circle.draw();
     }
 
-    public void drawRectangel() {
+    public void drawRectangle() {
         rectangle.draw();
     }
 
