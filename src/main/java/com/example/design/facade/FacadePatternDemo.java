@@ -9,7 +9,7 @@ public class FacadePatternDemo {
     public static void main(String[] args) {
         ShapeMaker shapeMaker = new ShapeMaker();
         shapeMaker.drawCircle();
-        shapeMaker.drawRectangel();
+        shapeMaker.drawRectangle();
         shapeMaker.drawSquare();
     }
 }
