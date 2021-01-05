@@ -30,6 +30,9 @@
 ### decorator pattern
 装饰器模式
 
+### facade pattern
+外观模式
+
 ### strategy pattern
 策略模式
 
