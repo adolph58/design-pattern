@@ -24,6 +24,9 @@
 ### filter pattern
 过滤器模式
 
+### composite pattern
+组合模式
+
 ### decorator pattern
 装饰器模式
 
