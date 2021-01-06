@@ -50,3 +50,6 @@
 
 ### command pattern
 命令模式
+
+### interpreter pattern
+解释器模式
