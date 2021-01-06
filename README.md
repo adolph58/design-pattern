@@ -47,3 +47,6 @@
 
 ### chain of responsibility pattern
 责任链模式
+
+### command pattern
+命令模式
