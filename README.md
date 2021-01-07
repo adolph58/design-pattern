@@ -60,5 +60,41 @@
 ### observer pattern
 观察者模式
 
+### state pattern
+状态模式
+
+### null object pattern
+空对象模式
+
 ### strategy pattern
 策略模式
+
+### template pattern
+模板模式
+
+### visitor pattern
+访问者模式
+
+### model-view-controller
+MVC 模式
+
+### business delegate pattern
+业务代表模式
+
+### composite entity pattern
+组合实体模式
+
+### data access object pattern
+数据访问对象模式
+
+### front controller pattern
+前端控制器模式
+
+### intercepting filter pattern
+拦截过滤器模式
+
+### service locator pattern
+服务定位器模式
+
+### transfer object pattern
+传输对象模式
