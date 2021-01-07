@@ -51,6 +51,12 @@
 ### iterator pattern
 迭代器模式
 
+### mediator pattern
+中介者模式
+
+### memento pattern
+备忘录模式
+
 ### observer pattern
 观察者模式
 
