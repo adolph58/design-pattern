@@ -36,12 +36,6 @@
 ### flyweight pattern
 享元模式
 
-### strategy pattern
-策略模式
-
-### observer pattern
-观察者模式
-
 ### proxy pattern
 代理模式
 
@@ -53,3 +47,12 @@
 
 ### interpreter pattern
 解释器模式
+
+### iterator pattern
+迭代器模式
+
+### observer pattern
+观察者模式
+
+### strategy pattern
+策略模式
