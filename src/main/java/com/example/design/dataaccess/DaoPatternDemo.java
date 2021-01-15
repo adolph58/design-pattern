@@ -10,7 +10,7 @@ public class DaoPatternDemo {
 
         // 输出所有的学生
         for (Student student : studentDao.getAllStudents()) {
-            System.out.println("Student: [RollNo: " + student.getRollNo() + ", Name : " + student.getName() + " ]");
+            System.out.println("Student: [RollNo: " + student.getRollNo() + ", Name : " + student.getName() + "]");
         }
 
         // 更新学生
@@ -20,7 +20,7 @@ public class DaoPatternDemo {
 
         // 获取学生
         student = studentDao.getStudent(0);
-        System.out.println("Student: [RollNo : " + student.getRollNo() + ", Name: " + student.getName() + " ]");
+        System.out.println("Student: [RollNo : " + student.getRollNo() + ", Name: " + student.getName() + "]");
 
     }
 }

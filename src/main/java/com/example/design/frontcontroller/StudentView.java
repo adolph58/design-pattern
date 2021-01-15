@@ -6,6 +6,6 @@ package com.example.design.frontcontroller;
  */
 public class StudentView {
     public void show() {
-        System.out.println("Displaying Student Page");
+        System.out.println("Displaying StudentVO Page");
     }
 }
